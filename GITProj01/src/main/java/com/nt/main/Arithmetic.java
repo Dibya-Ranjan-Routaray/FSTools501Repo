@@ -8,7 +8,7 @@ public class Arithmetic {
 	public  double sub(double x,double y) {
 
 		System.out.println("Write logic");
-		System.out.println("njkzbhjb");
+		
 		return x-y;
 	}
 	
