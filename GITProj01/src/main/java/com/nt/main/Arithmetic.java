@@ -9,7 +9,5 @@ public class Arithmetic {
 		
 		return x-y;
 	}
-	public void su() {
-		
-	}
+	
 }
