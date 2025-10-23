@@ -8,13 +8,8 @@ public class Arithmetic {
 	public  double sub(double x,double y) {
 
 		System.out.println("Write logic");
-<<<<<<< HEAD
-		System.out.println("fdfgdfhcgh");
-		return x-y;
-=======
 		
 		return x*y;
->>>>>>> branch 'master' of https://github.com/Dibya-Ranjan-Routaray/FSTools501Repo.git
 	}
 	
 }
