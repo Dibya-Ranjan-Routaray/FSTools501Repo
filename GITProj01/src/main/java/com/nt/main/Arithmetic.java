@@ -9,7 +9,7 @@ public class Arithmetic {
 
 		System.out.println("Write logic");
 		System.out.println("njkzbhjb");
-		return x-y;
+		return x*y;
 	}
 	
 }
