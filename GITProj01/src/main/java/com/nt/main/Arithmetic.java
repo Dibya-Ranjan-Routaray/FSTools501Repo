@@ -5,7 +5,7 @@ public class Arithmetic {
 		return x+y;
 	}
 	
-	public  double sub(double x,double y) {
+	public  float sub(float x,float y) {
 		return x-y;
 	}
 }
